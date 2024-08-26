@@ -1,0 +1,7 @@
+C:\Users\179492\source\repos\Binäärimuunnin\Binäärimuunnin\bin\Debug\Binäärimuunnin.exe.config
+C:\Users\179492\source\repos\Binäärimuunnin\Binäärimuunnin\bin\Debug\Binäärimuunnin.exe
+C:\Users\179492\source\repos\Binäärimuunnin\Binäärimuunnin\bin\Debug\Binäärimuunnin.pdb
+C:\Users\179492\source\repos\Binäärimuunnin\Binäärimuunnin\obj\Debug\Binäärimuunnin.csproj.AssemblyReference.cache
+C:\Users\179492\source\repos\Binäärimuunnin\Binäärimuunnin\obj\Debug\Binäärimuunnin.csproj.CoreCompileInputs.cache
+C:\Users\179492\source\repos\Binäärimuunnin\Binäärimuunnin\obj\Debug\Binäärimuunnin.exe
+C:\Users\179492\source\repos\Binäärimuunnin\Binäärimuunnin\obj\Debug\Binäärimuunnin.pdb
